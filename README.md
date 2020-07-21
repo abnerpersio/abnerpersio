@@ -4,7 +4,7 @@
 #### Dreamer
 
 
-- 🔭 I’m currently working on a Managing project for my Mom!
+- 🔭 I’m currently working on a Finances Management project for my Mom!
 - 🌱 I’m currently learning Javascript!
 - ⚡ Fun fact: 
 
