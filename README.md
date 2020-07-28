@@ -10,6 +10,6 @@
 
 - 📫 Find me elsewhere 
 	- [Facebook](facebook.com/abnerpersio)
-	- [LinkedIn](linkedin.com/abnerpersio)
+	- [LinkedIn](linkedin.com/in/abner-persio-farias-657b6a196/)
 	- [My Portfolio / site]()
 
