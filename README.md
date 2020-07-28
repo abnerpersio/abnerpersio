@@ -4,12 +4,12 @@
 #### Dreamer
 
 
-- 🔭 I’m currently working on a Finances Management project for my Mom!
-- 🌱 I’m currently learning Javascript!
-- ⚡ Fun fact: 
+- I’m currently working on a 'Finances Management' app to use it in my Mother's business!
+- I’m currently learning Javascript!
 
 
 - 📫 Find me elsewhere 
 	- [Facebook](facebook.com/abnerpersio)
-	- [LinkedIn]()
+	- [LinkedIn](linkedin.com/abnerpersio)
 	- [My Portfolio / site]()
+
