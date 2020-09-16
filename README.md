@@ -9,7 +9,7 @@
 
 
 - 📫 Find me elsewhere 
-	- [Facebook](facebook.com/abnerpersio)
-	- [LinkedIn](linkedin.com/in/abnerpersio/)
+	- [Facebook](https://facebook.com/abnerpersio)
+	- [LinkedIn](https://linkedin.com/in/abnerpersio/)
 
 
