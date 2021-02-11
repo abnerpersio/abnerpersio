@@ -1,6 +1,5 @@
+![emoji abner](./abner-emoji.png =200x200)
 ### Hello, I'm Abner Persio! 💻
-
-![emoji abner](/abner-emoji.png)
 
 
 #### Living in Louveira, São Paulo - Brasil
