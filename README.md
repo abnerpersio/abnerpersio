@@ -1,4 +1,4 @@
-![emoji abner](./abner-emoji.png =200x200)
+![emoji abner](./abner-emoji.png)
 ### Hello, I'm Abner Persio! 💻
 
 
