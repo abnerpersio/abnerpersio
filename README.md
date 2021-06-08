@@ -6,7 +6,7 @@
 #### Dreamer, fell in love by tech when I was 0 years old 😍.
 
 - Web Atom Designer. We'll change the future 🔥🔥
-- I’m currently working on a 'Finances Management' app to use it in my Mother's business!
+- I’m currently working on a 'Web Agenda' app to help barbershops to deal with their schedules it in business!
 - I’m currently learning Web Development!
 ```
 const experiences = { 
