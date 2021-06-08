@@ -13,12 +13,13 @@ const experiences = {
 	JavaScript, 
 	NodeJs, 
 	React, 
-	Vue, 
 	Bootstrap, 
 	Express, 
-	MongoDB, 
+	MongoDB,
+	PostgreSQL
 	Firebase,
-	AWS
+	AWS,
+	Docker
 }
 ```
 - Here I show my codes and learnings in my day a day
