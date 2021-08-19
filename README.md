@@ -9,8 +9,8 @@
 - I’m currently working on a 'Web Agenda' app to help barbershops to deal with their schedules it in business!
 - I’m currently learning React Native!
 
-```
-export const experiences = { 
+```js
+export const experiences = [ 
 	JavaScript, 
 	NodeJs, 
 	React, 
@@ -22,7 +22,7 @@ export const experiences = {
 	AWS,
 	Docker,
 	Typescript
-}
+]
 ```
 
 - Here I let my codes and learnings in my day a day
