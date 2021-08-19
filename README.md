@@ -2,14 +2,15 @@
 ### Hello, I'm Abner Persio! 💻
 
 
-#### Living in Louveira, São Paulo - Brasil
-#### Dreamer, fell in love by tech when I was 0 years old 😍.
+#### Living in Louveira, São Paulo
+#### Dreamer, fell in love by tech since always.
 
-- Web Atom Designer. We'll change the future 🔥🔥
+- Web Atom Programmer. We'll change the future 🔥🔥
 - I’m currently working on a 'Web Agenda' app to help barbershops to deal with their schedules it in business!
-- I’m currently learning Web Development!
+- I’m currently learning React Native!
+
 ```
-const experiences = { 
+export const experiences = { 
 	JavaScript, 
 	NodeJs, 
 	React, 
@@ -19,10 +20,12 @@ const experiences = {
 	PostgreSQL
 	Firebase,
 	AWS,
-	Docker
+	Docker,
+	Typescript
 }
 ```
-- Here I show my codes and learnings in my day a day
+
+- Here I let my codes and learnings in my day a day
 
 ---------------------------------------------
 
