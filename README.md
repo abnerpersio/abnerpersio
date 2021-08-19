@@ -30,8 +30,8 @@ export const experiences = [
 ---------------------------------------------
 
 - 📫 Find me elsewhere 
-	- [Facebook](https://facebook.com/abnerpersio){:target="_blank"}
-	- [Instagram](https://instagram.com/abnerpersio){:target="_blank"}
-	- [LinkedIn](https://linkedin.com/in/abnerpersio/){:target="_blank"}
+	- <a href="https://linkedin.com/in/abnerpersio/" target="blank">LinkedIn</a>
+	- <a href="https://instagram.com/abnerpersio" target="blank">Instagram</a>
+	- <a href="https://facebook.com/abnerpersio" target="blank">Facebook</a>
 
 
