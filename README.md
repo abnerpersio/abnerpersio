@@ -1,6 +1,8 @@
-![emoji abner](./abner-memoji.png)
+![](https://github-readme-stats.vercel.app/api?username=abnerpersio&theme=tokyonight)
+
 ### Hello, I'm Abner Persio! 💻
 
+![emoji abner](./abner-memoji.png)
 
 #### Living in Louveira, São Paulo
 #### Dreamer, fell in love by tech since always.
