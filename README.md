@@ -1,18 +1,23 @@
-![](https://github-readme-stats.vercel.app/api?username=abnerpersio&theme=tokyonight)
 
-### Hello, I'm Abner Persio! 💻
+<div align="center">
+	<h3>Hello, I'm Abner Persio! 💻</h2>
+</div>
 
-![emoji abner](./abner-memoji.png)
+<div align="center">
+  	<a href="https://github.com/abnerpersio">
+  		<img height="160em" src="https://github-readme-stats.vercel.app/api?username=abnerpersio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  		<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerpersio&layout=compact&langs_count=7&theme=tokyonight"/>
+	</a>
+</div>
 
 #### Living in Louveira, São Paulo
-#### Dreamer, fell in love by tech since always.
+#### Dreamer, in love by tech since always.
 
-- Web Atom Programmer. We'll change the future 🔥🔥
-- I’m currently working on a 'Web Agenda' app to help barbershops to deal with their schedules it in business!
-- I’m currently learning React Native!
+- Working with PHP and Node at aftersale
+- Currently learning React, Node.JS
 
 ```js
-export const experiences = [ 
+export const experiences = [
 	JavaScript, 
 	NodeJs, 
 	React, 
@@ -27,13 +32,9 @@ export const experiences = [
 ]
 ```
 
-- Here I let my codes and learnings in my day a day
-
----------------------------------------------
-
-- 📫 Find me elsewhere 
-	- <a href="https://linkedin.com/in/abnerpersio/" target="blank">LinkedIn</a>
-	- <a href="https://instagram.com/abnerpersio" target="blank">Instagram</a>
-	- <a href="https://facebook.com/abnerpersio" target="blank">Facebook</a>
+#### Find me elsewhere 
+- <a href="https://linkedin.com/in/abnerpersio/" target="blank">LinkedIn</a>
+- <a href="https://instagram.com/abnerpersio" target="blank">Instagram</a>
+- <a href="https://facebook.com/abnerpersio" target="blank">Facebook</a>
 
 
