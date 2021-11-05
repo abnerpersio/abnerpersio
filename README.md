@@ -28,7 +28,8 @@ export const experiences = [
 	Firebase,
 	AWS,
 	Docker,
-	Typescript
+	Typescript,
+	NestJS
 ]
 ```
 
