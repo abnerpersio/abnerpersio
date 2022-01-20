@@ -13,8 +13,8 @@
 #### Living in Louveira, São Paulo
 #### Dreamer, in love by tech since always.
 
-- Working with PHP and Node at aftersale
-- Currently learning React, Node.JS
+- Working with NodeJS at aftersale
+- Currently learning React and more about NodeJS
 
 ```js
 export const experiences = [
