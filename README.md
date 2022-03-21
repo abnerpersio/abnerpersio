@@ -10,11 +10,11 @@
 	</a>
 </div>
 
-#### Living in Louveira, São Paulo
-#### Dreamer, in love by tech since always.
+#### Living in Louveira, SP
 
-- Working with NodeJS at aftersale
-- Currently learning React and more about NodeJS
+👨‍💻 Dreamer, in love by tech since always  
+💻 Working with NodeJS at aftersale  
+📚 Currently learning React and more about NodeJS  
 
 ```ts
 import { JavaScript, NodeJs, React, Typescript } from '@abnerpersio/languages';
