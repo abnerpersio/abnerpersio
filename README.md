@@ -17,9 +17,9 @@
 📚 Currently learning React and more about NodeJS  
 
 ```ts
-import { JavaScript, NodeJs, React, Typescript } from '@abnerpersio/languages';
-import { Express, NestJS, Bootstrap, MongoDB, Postgres, NestJS } from '@abnerpersio/techs';
-import { Firebase, AWS, Docker } from '@abnerpersio/skills';
+import { JavaScript, Typescript } from '@abnerpersio/languages';
+import { NodeJS, Express, NestJS, React, Bootstrap, NestJS } from '@abnerpersio/techs';
+import { Firebase, AWS, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
 ```
 
 #### Find me elsewhere 
