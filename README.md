@@ -16,26 +16,14 @@
 - Working with NodeJS at aftersale
 - Currently learning React and more about NodeJS
 
-```js
-export const experiences = [
-	JavaScript, 
-	NodeJs, 
-	React, 
-	Bootstrap, 
-	Express, 
-	MongoDB,
-	PostgreSQL
-	Firebase,
-	AWS,
-	Docker,
-	Typescript,
-	NestJS
-]
+```ts
+import { JavaScript, NodeJs, React, Typescript } from '@abnerpersio/languages';
+import { Express, NestJS, Bootstrap, MongoDB, Postgres, NestJS } from '@abnerpersio/techs';
+import { Firebase, AWS, Docker } from '@abnerpersio/skills';
 ```
 
 #### Find me elsewhere 
-- <a href="https://linkedin.com/in/abnerpersio/" target="blank">LinkedIn</a>
-- <a href="https://instagram.com/abnerpersio" target="blank">Instagram</a>
-- <a href="https://facebook.com/abnerpersio" target="blank">Facebook</a>
 
+<a style="display:inline-block" href="https://linkedin.com/in/abnerpersio/" target="blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a style="display:inline-block" href="https://instagram.com/abnerpersio" target="blank"><img alt="link for instagram profile" title="My Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
