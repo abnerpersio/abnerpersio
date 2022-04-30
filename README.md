@@ -24,8 +24,8 @@ import { Firebase, AWS, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
 
 #### Find me elsewhere 
 
-<a style="display:inline-block" href="https://linkedin.com/in/abnerpersio/" target="blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a style="display:inline-block" href="https://instagram.com/abnerpersio" target="blank"><img alt="link for instagram profile" title="My Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a style="display:inline-block" href="https://linkedin.com/in/abnerpersio/" target="_blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a style="display:inline-block" href="https://instagram.com/abnerpersio" target="_blank"><img alt="link for instagram profile" title="My Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <div style="display: inline_block">
   <img align="center" alt="Javascript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
