@@ -18,8 +18,8 @@
 
 ```ts
 import { JavaScript, Typescript } from '@abnerpersio/languages';
-import { NodeJS, Express, NestJS, React, Bootstrap, NestJS } from '@abnerpersio/techs';
-import { Firebase, AWS, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
+import { NodeJS, Express, NestJS, React, NestJS } from '@abnerpersio/techs';
+import { AWS, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
 ```
 
 #### Find me elsewhere 
