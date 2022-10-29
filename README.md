@@ -19,7 +19,7 @@
 ```ts
 import { JavaScript, Typescript } from '@abnerpersio/languages';
 import { NodeJS, Express, NestJS, React } from '@abnerpersio/techs';
-import { AWS, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
+import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
 ```
 
 #### Find me elsewhere 
