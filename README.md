@@ -12,13 +12,12 @@
 
 #### Living in Louveira, SP
 
-👨‍💻 Dreamer, in love by tech since always  
-💻 Working with NodeJS at aftersale  
-📚 Currently learning React and more about NodeJS  
+👨‍💻 Dreamer, in love by tech since always
+💻 Working with React and NodeJS at aftersale
 
 ```ts
-import { JavaScript, Typescript } from '@abnerpersio/languages';
-import { NodeJS, Express, NestJS, React } from '@abnerpersio/techs';
+import { Typescript, JavaScript } from '@abnerpersio/languages';
+import { React, NodeJS, Express, NestJS } from '@abnerpersio/techs';
 import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
 ```
 
