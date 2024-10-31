@@ -8,11 +8,6 @@
 👨‍💻 In love by tech since always
 💻 Currently working with React and NodeJS at aftersale
 
-```ts
-import { Typescript, JavaScript } from '@abnerpersio/languages';
-import { React, NodeJS, Express, NestJS } from '@abnerpersio/techs';
-import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
-```
 ### Main projects 🚀
 
 | Name | Description (en-US) | Techs |
@@ -21,9 +16,23 @@ import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/
 | [Billing helper](https://github.com/abnerpersio/billing-helper) | API used to validate billets bar codes. Main feature: you send a bar code and the API returns informations about that billet: Due date, Value, ... | `node`, `typescript`, `docker`, `jest` | 
 | [Emailer](https://github.com/abnerpersio/emailer) | API to send emails asynchronously. Main features: Batch emails, Choose a provider to send the email (AWS / Sendgrid), queues | `node`, `typescript`, `docker`, `redis` | 
 | [File uploader](https://github.com/abnerpersio/file-uploader) | Microservice to handle file uploading. Main features: Multiple platforms (AWS S3 / Firebase / Google Cloud / Azure blob storage)  | `node`, `typescript`, `jest`, `clean arch`, `clean code` | 
-| [Movies catalog](https://github.com/abnerpersio/movies-catalog) | Frontend movies catalog app based on a Figma layout and using MovieDB API. Main features: Filtering and search, Pagination | `react`, `typescript`, `hooks`, `clean code`, `figma` | 
 | [Github proxy](https://github.com/abnerpersio/github-proxy) | API to search informations about an user from github API. Main features: Search user, search user repos | `node`, `typescript`, `jest`, `clean arch`, `clean code` | 
-| [My wedding invite - web version](https://github.com/abnerpersio/wedding-web) | a frontend project built as invite to my wedding | `react`, `typescript`, `styled-components` |
+| [Movies catalog](https://github.com/abnerpersio/movies-catalog) | Movies catalog frontend app based on a Figma layout and using MovieDB API. Main features: Filtering and search, Pagination | `react`, `typescript`, `hooks`,`styled-components`, `clean code`, `figma` | 
+| [My wedding invite - web version](https://github.com/abnerpersio/wedding-web) | A frontend project built as invite to my wedding | `react`, `typescript`, `styled-components` |
+| [My wedding invite - backend version](https://github.com/abnerpersio/wedding-api) | Backend that serves frontend project built as invite to my wedding | `typescript`, `prisma`, `postgresql` |
+| [Shopify wish list](https://github.com/abnerpersio/shopify-wish-list) | My first Node + React project, a app to search for products from a shopify commerce store. Built in 2021  | `react`, `node` |
+| [node-aws](https://github.com/abnerpersio/node-aws) | Project to learn about deploying a backend project into AWS EC2 Containers | `typescript`,`docker`,`aws`,`ec2` |
+| [Studier API](https://github.com/abnerpersio/studier-api) | API built as part of `rocketseat` learning challenge. Main features: manage users, manage user lessons | `typescript`,`docker`,`prisma`,`ec2` |
+| Waiter APP - [Backend](https://github.com/abnerpersio/waiter-backend) / [Frontend - web](https://github.com/abnerpersio/waiter-web)  | App learned on javascript course (JStack). It is an app that would be used in a restaurant. Main features: waiter catalog, make orders from clients, manage current orders | `node`,`mongodb`,`react` |
+| My contacts - [Backend](https://github.com/abnerpersio/mycontacts-backend) / [Frontend](https://github.com/abnerpersio/mycontacts-frontend)  | App learned on javascript course (JStack). It is an app to manage contacts. Main features: waiter catalog, make orders from clients, manage current orders | `node`,`postgresql`,`react`,`styled-components` |
+
+#### abner/index.ts
+
+```ts
+import { Typescript, JavaScript } from '@abnerpersio/languages';
+import { React, NodeJS, Express, NestJS } from '@abnerpersio/techs';
+import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
+```
 
 ### Find me elsewhere 
 
