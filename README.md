@@ -3,10 +3,14 @@
 	<h3>Hello, I'm Abner Persio! 💻</h2>
 </div>
 
-#### Living in Louveira, SP
+- Open to work on freelancer projects with NodeJS, React and other techs
+- Learning more about ReactNative
+- Currently working with React and NodeJS at aftersale
 
-👨‍💻 In love by tech since always
-💻 Currently working with React and NodeJS at aftersale
+### Find me elsewhere 
+
+<a style="display:inline-block" href="https://linkedin.com/in/abnerpersio/" target="_blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a style="display:inline-block" href="https://instagram.com/abnerpersio" target="_blank"><img alt="link for instagram profile" title="My Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ### Main projects 🚀
 
@@ -33,11 +37,6 @@ import { Typescript, JavaScript } from '@abnerpersio/languages';
 import { React, NodeJS, Express, NestJS } from '@abnerpersio/techs';
 import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
 ```
-
-### Find me elsewhere 
-
-<a style="display:inline-block" href="https://linkedin.com/in/abnerpersio/" target="_blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a style="display:inline-block" href="https://instagram.com/abnerpersio" target="_blank"><img alt="link for instagram profile" title="My Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <div style="display: inline_block">
   <img align="center" alt="Javascript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
