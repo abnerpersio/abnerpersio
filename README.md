@@ -3,23 +3,24 @@
 	<h3>Hello, I'm Abner Persio! 💻</h2>
 </div>
 
-<div align="center">
-  	<a href="https://github.com/abnerpersio">
-  		<img height="160em" src="https://github-readme-stats.vercel.app/api?username=abnerpersio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  		<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerpersio&layout=compact&langs_count=7&theme=tokyonight"/>
-	</a>
-</div>
-
 #### Living in Louveira, SP
 
-👨‍💻 Dreamer, in love by tech since always
-💻 Working with React and NodeJS at aftersale
+👨‍💻 In love by tech since always
+💻 Currently working with React and NodeJS at aftersale
 
 ```ts
 import { Typescript, JavaScript } from '@abnerpersio/languages';
 import { React, NodeJS, Express, NestJS } from '@abnerpersio/techs';
 import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
 ```
+## Main projects 🚀
+
+| Name | Description (en-US) | Descrição (pt-BR) | Techs |
+|---------|-----------|-------------|-------------|
+| [Bedrock API](https://github.com/abnerpersio/bedrock-api) | A project focused on learning about security on APIs. I have built an `express` API that tries to be secure against common attacks. Main features: Login, Request rate limit, Nginx proxy, Docker, Unit tests to cover all the scenarios | Um projeto focado em aprender sobre segurança em APIs. Construi uma API utilizando `express` que visa segurança contra ataques comuns. Principais implementações: Login, Limite de quantidade de requisições, Nginx como proxy de requisições, Docker, Testes automatizados pra garantir cobertura dos cenários | `node`, `typescript`, `docker`, `mongodb`, `nginx`, `jest` |
+
+<a style="display:inline-block" href="https://linkedin.com/in/abnerpersio/" target="_blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a style="display:inline-block" href="https://instagram.com/abnerpersio" target="_blank"><img alt="link for instagram profile" title="My Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 #### Find me elsewhere 
 
