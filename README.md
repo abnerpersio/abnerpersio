@@ -19,7 +19,10 @@ import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/
 |---------|-----------|-------------|
 | [Bedrock API](https://github.com/abnerpersio/bedrock-api) | a project focused on learning about security on APIs. I have built an `express` API that tries to be secure against common attacks. Main features: Login, Request rate limit, Nginx proxy, Docker, Unit tests to cover all the scenarios | `node`, `typescript`, `docker`, `mongodb`, `nginx`, `jest` |
 | [Billing helper](https://github.com/abnerpersio/billing-helper) | API used to validate billets bar codes. Main feature: you send a bar code and the API returns informations about that billet: Due date, Value, ... | `node`, `typescript`, `docker`, `jest` | 
-| [Emailer](https://github.com/abnerpersio/emailer) | API to send emails asynchronously. Main features: Batch emails, Choose a provider to send the email (AWS / Sendgrid), Queues ... | `node`, `typescript`, `docker`, `redis` | 
+| [Emailer](https://github.com/abnerpersio/emailer) | API to send emails asynchronously. Main features: Batch emails, Choose a provider to send the email (AWS / Sendgrid), queues | `node`, `typescript`, `docker`, `redis` | 
+| [File uploader](https://github.com/abnerpersio/file-uploader) | Microservice to handle file uploading. Main features: Multiple platforms (AWS S3 / Firebase / Google Cloud / Azure blob storage)  | `node`, `typescript`, `jest`, `clean arch`, `clean code` | 
+| [Movies catalog](https://github.com/abnerpersio/movies-catalog) | Frontend movies catalog app based on a Figma layout and using MovieDB API. Main features: Filtering and search, Pagination | `react`, `typescript`, `hooks`, `clean code`, `figma` | 
+| [Github proxy](https://github.com/abnerpersio/github-proxy) | API to search informations about an user from github API. Main features: Search user, search user repos | `node`, `typescript`, `jest`, `clean arch`, `clean code` | 
 | [My wedding invite - web version](https://github.com/abnerpersio/wedding-web) | a frontend project built as invite to my wedding | `react`, `typescript`, `styled-components` |
 
 ### Find me elsewhere 
