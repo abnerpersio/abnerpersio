@@ -33,8 +33,8 @@
 
 ```ts
 import { Typescript, JavaScript } from '@abnerpersio/languages';
-import { React, NodeJS, Express, NestJS } from '@abnerpersio/techs';
-import { AWS, Azure Service Bus, Docker, MongoDB, Postgres } from '@abnerpersio/skills';
+import { React, ReactNative, NodeJS, Express, NestJS } from '@abnerpersio/techs';
+import { AWS, S3, EC2, Docker, MongoDB, Postgres, GithubActions } from '@abnerpersio/skills';
 ```
 
 <div style="display: inline_block">
