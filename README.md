@@ -27,7 +27,7 @@
 | [Shopify wish list](https://github.com/abnerpersio/shopify-wish-list) | My first Node + React project, a app to search for products from a shopify commerce store. Built in 2021  | `react`, `node` |
 | [node-aws](https://github.com/abnerpersio/node-aws) | Project to learn about deploying a backend project into AWS EC2 Containers | `typescript`,`docker`,`aws`,`ec2` |
 | [Studier API](https://github.com/abnerpersio/studier-api) | API built as part of `rocketseat` learning challenge. Main features: manage users, manage user lessons | `typescript`,`docker`,`prisma`,`ec2` |
-| Waiter APP - [Backend](https://github.com/abnerpersio/waiter-backend) / [Frontend - web](https://github.com/abnerpersio/waiter-web)  | App learned on javascript course (JStack). It is an app that would be used in a restaurant. Main features: waiter catalog, make orders from clients, manage current orders | `node`,`mongodb`,`react` |
+| Waiter APP - [Backend](https://github.com/abnerpersio/waiter-backend) / [Frontend - web](https://github.com/abnerpersio/waiter-web) / [Mobile app](https://github.com/abnerpersio/waiter-app) | App learned on javascript course (JStack). It is an app that would be used in a restaurant. Main features: waiter catalog, make orders from clients, manage current orders | `node`,`mongodb`,`react`,`react-native`,`styled-components`,`ios`,`android`,`mobile` |
 | My contacts - [Backend](https://github.com/abnerpersio/mycontacts-backend) / [Frontend](https://github.com/abnerpersio/mycontacts-frontend)  | App learned on javascript course (JStack). It is an app to manage contacts. Main features: waiter catalog, make orders from clients, manage current orders | `node`,`postgresql`,`react`,`styled-components` |
 
 #### abner/index.ts
