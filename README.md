@@ -3,8 +3,7 @@
 	<h3>Hello, I'm Abner Persio! 💻</h2>
 </div>
 
-- Open to work on freelancer projects with NodeJS, React and other techs
-- Learning more about ReactNative
+- Open to work on freelancer projects with `NodeJS`, `React` and `React Native`
 - Currently working with React and NodeJS at aftersale
 
 ### Find me elsewhere 
