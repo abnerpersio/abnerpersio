@@ -4,7 +4,7 @@
 </div>
 
 - Open to work on freelancer projects with `NodeJS`, `React` and `React Native`
-- Currently working with React and NodeJS at aftersale
+- Currently working with React and NodeJS
 
 ### Find me elsewhere 
 
