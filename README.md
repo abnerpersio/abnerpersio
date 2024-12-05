@@ -15,7 +15,7 @@
 
 | Name | Description (en-US) | Techs |
 |---------|-----------|-------------|
-| Fincheck - [Backend](https://github.com/abnerpersio/fincheck-api) / [Frontend - web](https://github.com/abnerpersio/fincheck-web) | NestJS (backend) and React apps. It is an app to organize your personal finances. | `nestjs`,`typescript`,`react`,`tailwindcss` |
+| Fincheck - [Backend](https://github.com/abnerpersio/fincheck-api) / [Frontend - web](https://github.com/abnerpersio/fincheck-web) | NestJS (backend) and React app. It is an app to organize your personal finances. | `nestjs`,`typescript`,`react`,`tailwindcss` |
 | Waiter APP - [Backend](https://github.com/abnerpersio/waiter-backend) / [Frontend - web](https://github.com/abnerpersio/waiter-web) / [Mobile app](https://github.com/abnerpersio/waiter-app) | App made on javascript course (JStack). It is an app that would be used in a restaurant. Main features: waiter catalog, make orders from clients, manage current orders | `node`,`mongodb`,`react`,`react-native`,`styled-components`,`ios`,`android`,`mobile`,`websockets` |
 | [Bedrock API](https://github.com/abnerpersio/bedrock-api) | a project focused on learning about security on APIs. I have built an `express` API that tries to be secure against common attacks. Main features: Login, Request rate limit, Nginx proxy, Docker, Unit tests to cover all the scenarios | `node`, `typescript`, `docker`, `mongodb`, `nginx`, `jest` |
 | [Billing helper](https://github.com/abnerpersio/billing-helper) | API used to validate billets bar codes. Main feature: you send a bar code and the API returns informations about that billet: Due date, Value, ... | `node`, `typescript`, `docker`, `jest` | 
