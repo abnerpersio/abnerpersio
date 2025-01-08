@@ -6,6 +6,14 @@
 - Open to work on freelancer projects with `NodeJS`, `React` and `React Native`
 - Currently working with React and NodeJS
 
+#### abner/index.ts
+
+```ts
+import { Typescript, JavaScript } from '@abnerpersio/languages';
+import { React, ReactNative, NodeJS, Express, NestJS } from '@abnerpersio/techs';
+import { AWS, Serverless, Docker, MongoDB, Postgres, DynamoDB } from '@abnerpersio/skills';
+```
+
 ### Find me elsewhere 
 
 <a style="display:inline-block" href="https://linkedin.com/in/abnerpersio/" target="_blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,14 +37,6 @@
 | [My wedding invite - backend version](https://github.com/abnerpersio/wedding-api) | Backend that serves frontend project built as invite to my wedding | `typescript`, `prisma`, `postgresql` |
 | [Shopify wish list](https://github.com/abnerpersio/shopify-wish-list) | My first Node + React project, a app to search for products from a shopify commerce store. Built in 2021  | `react`, `node` |
 | [node-aws](https://github.com/abnerpersio/node-aws) | Project to learn about deploying a backend project into AWS EC2 Containers | `typescript`,`docker`,`aws`,`ec2` |
-
-#### abner/index.ts
-
-```ts
-import { Typescript, JavaScript } from '@abnerpersio/languages';
-import { React, ReactNative, NodeJS, Express, NestJS } from '@abnerpersio/techs';
-import { AWS, S3, EC2, Docker, MongoDB, Postgres, GithubActions } from '@abnerpersio/skills';
-```
 
 <div style="display: inline_block">
   <img align="center" alt="Javascript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
