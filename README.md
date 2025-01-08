@@ -30,11 +30,11 @@ import { AWS, Serverless, Docker, MongoDB, Postgres, DynamoDB } from '@abnerpers
 | [Emailer](https://github.com/abnerpersio/emailer) | API to send emails asynchronously. Main features: Batch emails, Choose a provider to send the email (AWS / Sendgrid), queues | `node`, `typescript`, `docker`, `redis` | 
 | My contacts - [Backend](https://github.com/abnerpersio/mycontacts-backend) / [Frontend](https://github.com/abnerpersio/mycontacts-frontend)  | App learned on javascript course (JStack). It is an app to manage contacts. Main features: waiter catalog, make orders from clients, manage current orders | `node`,`postgresql`,`react`,`styled-components` |
 | [File uploader](https://github.com/abnerpersio/file-uploader) | Microservice to handle file uploading. Main features: Multiple platforms (AWS S3 / Firebase / Google Cloud / Azure blob storage)  | `node`, `typescript`, `jest`, `clean arch`, `clean code` | 
+| [Next with authentication](https://github.com/abnerpersio/next-authentication) |   | `next`, `typescript`, `react` | 
+| [Websockets with AWS API Gateway](https://github.com/abnerpersio/websockets-aws-apigw) |   | `aws`, `typescript`, `apigw`, `lambda`, `serverless` | 
 | [Github proxy](https://github.com/abnerpersio/github-proxy) | API to search informations about an user from github API. Main features: Search user, search user repos | `node`, `typescript`, `jest`, `clean arch`, `clean code` |
 | [Studier API](https://github.com/abnerpersio/studier-api) | API built as part of `rocketseat` learning challenge. Main features: manage users, manage user lessons | `typescript`,`docker`,`prisma`,`ec2` |
 | [Movies catalog](https://github.com/abnerpersio/movies-catalog) | Movies catalog frontend app based on a Figma layout and using MovieDB API. Main features: Filtering and search, Pagination | `react`, `typescript`, `hooks`,`styled-components`, `clean code`, `figma` | 
-| [My wedding invite - web version](https://github.com/abnerpersio/wedding-web) | A frontend project built as invite to my wedding | `react`, `typescript`, `styled-components` |
-| [My wedding invite - backend version](https://github.com/abnerpersio/wedding-api) | Backend that serves frontend project built as invite to my wedding | `typescript`, `prisma`, `postgresql` |
 | [Shopify wish list](https://github.com/abnerpersio/shopify-wish-list) | My first Node + React project, a app to search for products from a shopify commerce store. Built in 2021  | `react`, `node` |
 | [node-aws](https://github.com/abnerpersio/node-aws) | Project to learn about deploying a backend project into AWS EC2 Containers | `typescript`,`docker`,`aws`,`ec2` |
 
