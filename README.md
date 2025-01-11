@@ -11,7 +11,9 @@
 ```ts
 import { Typescript, JavaScript } from '@abnerpersio/languages';
 import { React, ReactNative, NodeJS, Express, NestJS } from '@abnerpersio/techs';
-import { AWS, Serverless, Docker, MongoDB, Postgres, DynamoDB } from '@abnerpersio/skills';
+import { ReactQuery, Zustand, TailwindCSS, StyledComponents } from '@abnerpersio/frontend-skills';
+import { Serverless, DynamoDB, Postgres, Docker, MongoDB } from '@abnerpersio/backend-skills';
+import { AWS, Docker } from '@abnerpersio/other-skills';
 ```
 
 ### Find me elsewhere 
