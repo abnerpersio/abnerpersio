@@ -3,18 +3,10 @@
 	<h3>Hello, I'm Abner Persio! 💻</h2>
 </div>
 
+(Typescript | React  | TailwindCSS | NestJS | Serverless | AWS | DynamoDB | Postgres)
+
 - Open to work on freelancer projects with `NodeJS`, `React` and `React Native`
 - Currently working with React and NodeJS
-
-#### abner/index.ts
-
-```ts
-import { Typescript, JavaScript } from '@abnerpersio/languages';
-import { React, ReactNative, NodeJS, Express, NestJS } from '@abnerpersio/techs';
-import { ReactQuery, Zustand, TailwindCSS, StyledComponents } from '@abnerpersio/frontend-skills';
-import { Serverless, DynamoDB, Postgres, Docker, MongoDB } from '@abnerpersio/backend-skills';
-import { AWS, Docker } from '@abnerpersio/other-skills';
-```
 
 ### Find me elsewhere 
 
