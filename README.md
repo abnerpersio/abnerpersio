@@ -1,19 +1,21 @@
 
-<div>
-	<h3>Hello, I'm Abner Persio! 💻</h2>
-</div>
+#### This is me, Abner Persio 😃
 
 (Typescript | React  | TailwindCSS | NestJS | Serverless | AWS | DynamoDB | Postgres)
 
-- Open to work on freelancer projects with `NodeJS`, `React` and `React Native`
-- Currently working with React and NodeJS
+---
 
-### Find me elsewhere 
+> [!NOTE]
+> Open to work on freelancer projects with `NodeJS`, `React`.
+> Currently working using this stack
 
-<a style="display:inline-block" href="https://linkedin.com/in/abnerpersio/" target="_blank"><img alt="link for linkedin profile" title="My LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a style="display:inline-block" href="https://instagram.com/abnerpersio" target="_blank"><img alt="link for instagram profile" title="My Instagram profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+### Contact me - 🇧🇷 🇺🇸
 
-### Main projects 🚀
+- via [linkedin](https://linkedin.com/in/abnerpersio/)
+
+---
+
+### Projects
 
 | Name | Description (en-US) | Techs |
 |---------|-----------|-------------|
