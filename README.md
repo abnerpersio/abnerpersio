@@ -8,7 +8,7 @@ _Typescript | React  | TailwindCSS | NestJS | Serverless | AWS | DynamoDB | Post
 
 ---
 
-### Contact me - 🇧🇷 🇺🇸
+### Contact me - 🇧🇷 | 🇺🇸
 
 - via [LinkedIn](https://linkedin.com/in/abnerpersio/)
 
