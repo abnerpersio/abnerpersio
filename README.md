@@ -2,7 +2,7 @@
 
 _Typescript | React  | TailwindCSS | NestJS | Serverless | AWS | DynamoDB | Postgres_
 
-- 🧠 4+ years with JS ecosystem
+- 🧠 4+ years working with JS
 - 🖥️ experience with microservices and clean code
 - 🌎 conversational english and learning spanish
 - 📖 learning and coding using golang
