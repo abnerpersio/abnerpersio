@@ -1,11 +1,11 @@
 ### This is me, Abner Persio 😃
 
-_Typescript | React  | TailwindCSS | NestJS | Serverless | AWS | DynamoDB | Postgres_
+_Typescript | React  | TailwindCSS | NestJS | Serverless | AWS | DynamoDB | Postgres | React Native_
 
-- 🧠 4+ years working with JS
+- 🧠 5+ years working with JS
 - 🖥️ experience with microservices and clean code
 - 🌎 conversational english and learning spanish
-- 📖 learning and coding using golang
+- 📖 practicing more on aws infrastructure
 
 ---
 
